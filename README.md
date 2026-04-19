@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="DevSecOps-Pipeline" src="https://github.com/user-attachments/assets/43df5ae9-4425-4ec2-b03f-974845bcc218" />
+
 # DevSecOps Pipeline Project
 
 ## Features
